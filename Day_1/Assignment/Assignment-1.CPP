@@ -14,7 +14,6 @@ void reverseArray(int arr[], int size){
 
 int main(){
     int size;
-    cin>>size;
     //int arr[] = {1,2,4,5};
     int arr[size];
     for(int i=0; i<size; i++){
